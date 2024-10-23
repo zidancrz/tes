@@ -1,0 +1,1 @@
+<? echo "ini halo php"; ?>
